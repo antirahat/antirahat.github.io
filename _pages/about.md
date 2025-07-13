@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Favourite Movie: 3idiot</p>
-    <p>avourite Song: Iris</p>
+    <p>Favourite Song: Iris</p>
     <p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
